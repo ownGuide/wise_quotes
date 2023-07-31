@@ -59,7 +59,7 @@ print(authors)
 Пример вызова функции:
 
 ```python
-quotes = get_author_quotes('Конфуций')
+quotes = get_author_quotes('quotes.txt', 'Конфуций')
 print(quotes)
 ```
 
